@@ -1,0 +1,11 @@
+Package: org.golde.cydia.SnapChatPhantom 
+Name: Snaphat Phantom Logo
+Version: 1.0 
+Architecture: iphoneos-arm 
+Description: Themes SnapChat with the Phantom Logo
+Homepage: eric.golde.org/cydia 
+Maintainer: Eric Golde
+Author: Eric Golde
+Section: ECR_Themes
+Conflicts: 
+Depends: winterboard
